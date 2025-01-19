@@ -11,9 +11,6 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 import lombok.Data;
 
-
-//testando Docker e USerModel
-
 @Data
 @Entity(name ="tb_users")
 public class UserModel {
